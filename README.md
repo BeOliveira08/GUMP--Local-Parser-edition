@@ -1,5 +1,7 @@
 GUMP Local Light — zero LLM, zero API
 
+Please ask for the License Key
+
 Objetivo:
 - Ler documentos (pdf/docx/txt/html/eml/rtf/odt) localmente
 - Extrair texto de forma robusta
